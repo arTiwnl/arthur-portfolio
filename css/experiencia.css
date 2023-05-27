@@ -14,6 +14,10 @@
 	color: #525252;
 }
 
+.experiencia strong{
+	color: black;
+}
+
 .empresa {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
