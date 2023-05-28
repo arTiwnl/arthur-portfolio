@@ -3,7 +3,8 @@
 
 .experiencia .subtitulo{
 	color: #e0e0e0;
-	font-weight: 900;
+	font-weight: 800;
+	max-width: 4.5ch;
 }
 
 .experiencia-texto {
