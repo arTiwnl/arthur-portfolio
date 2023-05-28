@@ -78,9 +78,7 @@
 
 @media (max-width: 800px){
 
-	h2{
-		margin-bottom: -36px;
-	}
+
 	.experiencia{
 		grid-template-columns: 1fr;
 		gap: 40px;
